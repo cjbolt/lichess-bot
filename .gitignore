@@ -1,4 +1,5 @@
 config.yml
 __pycache__
 /engines/*
+!/engines/Eubos.jar
 !/engines/README.md
